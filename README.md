@@ -4,6 +4,8 @@
 # Arcade Cabinet
 ## Proyecto RECREATIVA: Arcade Retro Gaming Cabinet.
 
+![arcade cabinet](https://raw.githubusercontent.com/txuswashere/arcade-cabinet/master/06%20arcade.jpg "arcade cabinet")
+
 
 ### Software and OS (operating system) DISTRIBUTIONS:
 
@@ -27,7 +29,7 @@ retrobat
 - http://www.retrobat.ovh/
 
 
-
+![arcade cabinet](https://raw.githubusercontent.com/txuswashere/arcade-cabinet/master/04%20arcade.jpg "arcade cabinet")
 
 ## Asociaciones ARCADE
 - Alicante: https://arcadevintageshop.blogspot.com/
@@ -44,6 +46,8 @@ retrobat
 - https://arcadespain.info/portal/
 - https://maquinasrecreativas.org/
 
+![arcade cabinet](https://raw.githubusercontent.com/txuswashere/arcade-cabinet/master/05%20arcade.jpg "arcade cabinet")
+
 ## DIY: Diseños y planos
 - http://www.koenigs.dk/mame/eng/index.htm
 - http://www.koenigs.dk/mame/eng/stepprojectmame.htm
@@ -51,6 +55,7 @@ retrobat
 - https://www.instructables.com/howto/arcade+cabinet/
 - https://www.mymydiy.com/diy-arcade-cabinet-plans/
 - https://www.arcadepunks.com/arcade-cabinet-plans/
+
 
 ### ARCADE CABINETS
 - https://extremehomearcades.com/
