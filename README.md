@@ -33,17 +33,19 @@ retrobat
 ![arcade cabinet](https://raw.githubusercontent.com/txuswashere/arcade-cabinet/master/04%20arcade.jpg "arcade cabinet")
 
 ## Asociaciones ARCADE
-- Alicante: https://arcadevintageshop.blogspot.com/
-- Sevilla: http://arcadeplanet.es
-- Madrid: https://bricoarcade.es/
-- Barcelona: http://tienda.factoryarcade.es/
-- Barcelona: https://www.rex-arcade.com/
+- Alicante https://arcadevintageshop.blogspot.com/
+- Sevilla http://arcadeplanet.es
+- Madrid https://bricoarcade.es/
+- Barcelona http://tienda.factoryarcade.es/
+- Barcelona https://www.rex-arcade.com/
+- Barcelona http://www.bricogame.es/
 - Mi Arcade: https://miarcade.com/tienda-arcade/
 - Guadalajara, Castilla-La Mancha: https://www.recreativasretro.es/
 - Albacete: https://www.tiendaarcade.com/
 - Time Machine: https://www.toad.es/es/
 - Granada https://www.arcadexpress.com/es/
-
+- Toledo https://skullarcade.com/
+- Córdoba https://talentec.es/ 
 
 ## Portales ARCADE
 - https://arcadespain.info/portal/
