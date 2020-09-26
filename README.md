@@ -1,9 +1,9 @@
 # arcade-cabinet
+![GAMAKER](https://raw.githubusercontent.com/txuswashere/arcade-cabinet/master/0%20DIY%20Arcade%20Cabinet.jpg "GAMAKER")
+
 ![GAMAKER](https://raw.githubusercontent.com/txuswashere/Gamaker/master/GAMAKER.png "GAMAKER")
 
 ![GAMAKER](https://raw.githubusercontent.com/txuswashere/arcade-cabinet/master/0%20DIY%20ArcadeCabinet.jpg "GAMAKER")
-
-![GAMAKER](https://raw.githubusercontent.com/txuswashere/arcade-cabinet/master/0%20DIY%20Arcade%20Cabinet.jpg "GAMAKER")
 
 # Arcade Cabinet
 ![arcade controls](https://github.com/txuswashere/arcade-cabinet/raw/master/00%20DIY%20Arcade%2020%20botones.png "arcade controls")
