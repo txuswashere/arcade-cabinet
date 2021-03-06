@@ -6,8 +6,8 @@
 
 ![GAMAKER](https://raw.githubusercontent.com/txuswashere/arcade-cabinet/master/0%20DIY%20ArcadeCabinet.jpg "GAMAKER")
 
+![arcade cabinet](https://github.com/txuswashere/arcade-cabinet/blob/master/GAMAKER/gamaker%20DIY%20arcade%20.jpg "GAMAKER DIY Arcade Cabinet")
 ![arcade cabinet](https://github.com/txuswashere/arcade-cabinet/blob/master/GAMAKER/gamaker%20DIY%20arcade%20bartop.jpg "GAMAKER DIY Arcade Cabinet")
-![arcade cabinet](https://github.com/txuswashere/arcade-cabinet/blob/master/GAMAKER/gamaker%20DIY%20arcade.jpg "GAMAKER DIY Arcade Cabinet")
 
 
 # Arcade Cabinet
